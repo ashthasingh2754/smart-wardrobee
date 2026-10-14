@@ -1,48 +1,41 @@
 
-# 👗 Smart Wardrobe
+# Hi there, I'm Ashtha Singh! 👋
 
-A personal wardrobe management and outfit recommendation app built with Python, Streamlit, and SQLite.
+🎓 Aspiring Software Developer | 💻 Python Developer
 
-## ✨ Features
+I'm passionate about software development and building practical applications that solve everyday problems. I'm currently improving my programming skills and working on projects to grow as a developer.
 
-- Add clothing items with photos
-- Search and filter your wardrobe
-- Organize clothes by category
+## 🚀 Featured Project
+
+### 👗 Smart Wardrobe
+A wardrobe management and outfit recommendation application built using Python, Streamlit, and SQLite.
+
+- Organize clothing items and photos
 - Generate outfit suggestions for different occasions
 - Plan and save outfits
-- Get weather-based clothing suggestions
+- Explore weather-based clothing suggestions
 
-## 🛠️ Technologies Used
+🔗 [View Smart Wardrobe on GitHub](https://github.com/ashthasingh2754/smart-wardrobee)
 
-- Python
-- Streamlit
-- SQLite
-- OpenWeather API
+## 🛠️ Technologies & Tools
 
-## 🚀 How to Run
+- **Language:** Python
+- **Framework:** Streamlit
+- **Database:** SQLite
+- **Tools:** Git, GitHub, VS Code
+- **API:** OpenWeather API
 
-1. Clone or download this repository.
-2. Open a terminal in the project folder.
-3. Create and activate a virtual environment.
-4. Install the required dependencies.
-5. Configure your OpenWeather API key in Streamlit secrets.
-6. Run the application.
+## 🎯 Current Goals
 
-```bash
-python -m streamlit run app.py
-```
+- Strengthen my programming and problem-solving skills
+- Build more practical software projects
+- Learn industry-relevant development tools
+- Prepare for software development internships
 
-## 🔐 API Key Setup
+## 📫 Connect With Me
 
-Create `.streamlit/secrets.toml` locally and add:
+- GitHub: [@ashthasingh2754](https://github.com/ashthasingh2754)
 
-```toml
-OPENWEATHER_API_KEY = "your_api_key_here"
-```
+---
 
-Never commit your real API key or `secrets.toml` to GitHub.
-
-## 👩‍💻 About
-
-Smart Wardrobe is a Python project designed to make clothing organization and outfit planning easier.
-
+⭐ Thanks for visiting my profile!
