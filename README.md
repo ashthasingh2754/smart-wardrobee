@@ -40,6 +40,18 @@ A Flutter-based version of Smart Wardrobe with a user-friendly interface.
 - `database.py` – SQLite database operations.
 
 🔗 **[View Smart Wardrobe on GitHub](https://github.com/ashthasingh2754/smart-wardrobee)**
+---
+
+## 📸 App Screenshots
+
+### 🏠 Home Screen
+![Smart Wardrobe Home](screenshots/wardrobe_home.png)
+
+### 🌦️ Weather & Style
+![Weather and Style](screenshots/weather_style.png)
+
+### 👗 Outfit Suggestions
+![Outfit Suggestions](screenshots/outfit_suggestions.png)
 
 ---
 
